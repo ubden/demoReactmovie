@@ -1,2 +1,12 @@
-## React - RMDB
-This is a modern movie database built using React.js, and inspired by IMDB. It is currently a work in progress, and I will update this README file once it is complete with a live demo.
+## RMDB - React Movie Database
+RMDB is a modern movie database made using React.js, and The Movie Database API.
+
+## Live Demo:
+http://www.jazdosanjh.com/rmdb/
+
+## Built With
+* React.js
+* React Router
+* REST API (https://developers.themoviedb.org/3/getting-started/introduction)
+* JavaScript (ES6)
+* CSS Grid
